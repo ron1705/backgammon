@@ -1,5 +1,5 @@
 def main() -> None:
-    pass
+    board: list[int] = []
 
 
 if __name__ == '__main__':
